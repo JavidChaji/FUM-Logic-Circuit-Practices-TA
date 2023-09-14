@@ -22,9 +22,9 @@ Ferdowsi University of Mashhad Logic Circuit Practices Teaching Assistant
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Logic-Circuit-Practices-TA.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Logic-Circuit-Practices-TA/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
