@@ -45,9 +45,9 @@ Ferdowsi University of Mashhad Logic Circuit Practices Teaching Assistant
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Logic-Circuit-Practices-TA.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Logic-Circuit-Practices-TA/blob/master/LICENSE
 
 
 <!-- Linkedin -->
