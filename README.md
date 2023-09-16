@@ -23,6 +23,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
+
+Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Practices-TA](https://github.com/JavidChaji/FUM-Logic-Circuit-Practices-TA)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
