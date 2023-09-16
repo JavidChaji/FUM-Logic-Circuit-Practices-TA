@@ -26,7 +26,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
+Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Practices-TA](https://github.com/JavidChaji/FUM-Logic-Circuit-Practices-TA)
 
