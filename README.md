@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 
 # logic_circuits_design
@@ -52,7 +52,7 @@ Ferdowsi University of Mashhad Logic Circuit Practices Teaching Assistant
 
 Technologies and Tools Utilized in this Project
 
-* [![LibreOffice][LibreOffice-Shield]][LibreOffice-url]
+* [![LibreOffice][LibreOffice-Shield]][LibreOffice-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,9 +153,9 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 [LibreOffice-Shield]: https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
 
-[LibreOffice-url]: https://www.libreoffice.org/
+[LibreOffice-URL]: https://www.libreoffice.org/
