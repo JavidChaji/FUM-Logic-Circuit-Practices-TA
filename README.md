@@ -1,16 +1,12 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
-
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
-
 
 # logic_circuits_design
 
@@ -58,8 +54,6 @@ Technologies and Tools Utilized in this Project
 
 
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -78,13 +72,14 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- CONTACT -->
 ## Contact
@@ -112,8 +107,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
